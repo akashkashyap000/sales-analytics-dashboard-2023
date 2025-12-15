@@ -68,9 +68,9 @@ This Tableau dashboard was developed to analyze **FY 2023 sales performance** fo
 - **Visual Best Practices:** Consistent color palette, clear hierarchy, mobile-responsive design
 
 ## 📁 **Repository Contents**
-- `dashboard_preview.png` - High-resolution dashboard screenshot
-- `Business_Context_&_Insights.pdf` - Detailed business analysis (3 pages)
-- `data/sample_dataset.csv` - Anonymized sample data (1000 rows)
+- `Screenshot 2025-12-14 143829.png` - High-resolution dashboard screenshot
+- `Business_Context_&_Insights.md` - Detailed business analysis
+- `Sales.xlsx` - Anonymized sample data (115746 rows)
 - `README.md` - Project documentation
 
 ## 📞 **Project Impact**
@@ -80,13 +80,8 @@ This Tableau dashboard was developed to analyze **FY 2023 sales performance** fo
 ## 👨‍💻 **Author**
 **Your Name**  
 Data Analyst | Business Intelligence Specialist  
-📧 your.email@domain.com | 🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🌐 [Portfolio Website](https://yourportfolio.com)
+📧akashkashyap2799@gmail.com | 🔗 [LinkedIn Profile](|linkedin.com/in/akash-kashyap)  
 
----
-### 🔗 **Connect with This Project**
-- **Live Dashboard:** [Tableau Public Link - If Available]
-- **Related Projects:** [Check my other analytics projects](https://github.com/yourusername/)
 - **Hire Me:** Open to full-time/contract roles in Business Intelligence & Data Analytics
 
-*Last Updated: December 2024*
+
